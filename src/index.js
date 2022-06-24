@@ -9,6 +9,8 @@ function App() {
     <div className="App">
       <h1>Weather App</h1>
       <Weather />
+      <br />
+      <p>https://github.com/Kaytay418/react-weather-practice</p>
     </div>
   );
 }
