@@ -10,7 +10,16 @@ function App() {
       <h1>Weather App</h1>
       <Weather />
       <br />
-      <p>https://github.com/Kaytay418/react-weather-practice</p>
+      <footer>
+        This project was coded by Katie Latham and is{" "}
+        <a
+          href="https://github.com/Kaytay418/react-weather-practice"
+          target="_blank"
+        >
+          open-sourced on Github
+        </a>
+      </footer>
+      <p></p>
     </div>
   );
 }
